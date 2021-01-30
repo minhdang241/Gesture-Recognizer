@@ -26,13 +26,3 @@
 - The input on the canvas can be erased, which is useful in case the user makes a mistake in the drawing and wants to redraw.
 
 - Generated images can be zipped and accessed through the Files app.
-
-- 
-- 
-- 
-  
-  
-  
-
-
-

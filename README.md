@@ -7,7 +7,7 @@
 
 ## Timeline
 
-**Expectation:** Complete the apps within 1 week:
+**Expectation:** Complete the app within 1 week:
 
 - day 1: Doing research and Planing the project, Learning IOS development 
 - day 2,3,4,5: Learning IOS  development
@@ -21,8 +21,8 @@
 
 ## Features
 
-- There is a drawing canvas to get input from user (used in generating gesture images as well as classifying new images).
+- A drawing canvas to get input from user (used in generating gesture images as well as classifying new images).
 
-- The input on the canvas can be erased, which is useful in case the user makes a mistake in the drawing and wants to redraw.
+- The drawing on the canvas can be erased, which is useful in case the user makes a mistake when drawing and wants to redraw.
 
 - Generated images can be zipped and accessed through the Files app.
